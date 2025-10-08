@@ -723,6 +723,49 @@ class FacebookCategoryScraper:
             if self.debug:
                 import traceback
                 self.logger.debug(traceback.format_exc())
+def run_automated_scraper():
+    """
+    Runs the scraper in a non-interactive mode for automation.
+    It scrapes all defined categories.
+    """
+    print("=" * 90)
+    print("Facebook Scraper - AUTOMATED RUN")
+    print("=" * 90)
+    
+    # ALWAYS run in headless mode for automation
+    with FacebookCategoryScraper(headless=True, debug=False) as scraper:
+        print("\nLogging in...")
+        if not scraper.login():
+            print("Login failed! Exiting.")
+            sys.exit(1) # Exit with an error code
+        
+        print("Login successful!\n")
+        
+        categories_to_scrape = list(FacebookCategoryScraper.CATEGORIES.keys())
+        print(f"Starting scraping for categories: {', '.join(categories_to_scrape)}")
+        
+        for category in categories_to_scrape:
+            version_id = f"v_{datetime.now().strftime('%Y%m%d_%H%M%S')}_{random.randint(1000, 9999)}"
+            
+            print(f"\n{'=' * 90}")
+            print(f"Scraping TOP 10 TRENDING hashtags for: {category.upper()}")
+            print(f"Version ID: {version_id}")
+            print("This may take 2-4 minutes...\n")
+            
+            start_time = time.time()
+            top_10 = scraper.get_top_10_trending(category, max_posts=50)
+            elapsed_time = time.time() - start_time
+            
+            if top_10:
+                print(f"Scraping for {category} completed in {elapsed_time:.1f} seconds.")
+                print("Saving results...")
+                scraper.save_results(top_10, category, version_id)
+            else:
+                print(f"No hashtags found for {category}.")
+        
+        print("\n" + "=" * 90)
+        print("Automated run completed for all categories.")
+        print("=" * 90)                
 
 
 def main():
@@ -864,4 +907,8 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    # Check if the 'CI' environment variable is set (common in GitHub Actions)
+    if os.getenv('CI'):
+        run_automated_scraper()
+    else:
+        main()
