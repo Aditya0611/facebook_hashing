@@ -1,0 +1,410 @@
+2025-09-29 09:26:07,742 - INFO - Setting up Chrome driver...
+2025-09-29 09:26:11,286 - INFO - patching driver executable C:\Users\rajni\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-09-29 09:26:17,105 - INFO - Chrome driver setup completed successfully
+2025-09-29 09:26:17,105 - INFO - Starting Facebook login process...
+2025-09-29 09:28:02,751 - INFO - Login appears successful based on URL change
+2025-09-29 09:28:18,902 - INFO - Navigating to search URL: https://www.facebook.com/search/posts/?q=%23technology
+2025-09-29 09:28:30,730 - INFO - Found 3 containers with selector: div[role="article"]
+2025-09-29 09:28:31,432 - INFO - Found 3 organic (non-ad) containers
+2025-09-29 09:28:31,433 - INFO - Processing 3 potential post containers...
+2025-09-29 09:28:31,672 - INFO - Container 1 HTML preview: <div aria-posinset="1" aria-describedby="_r_2b_ _r_2c_ _r_2d_ _r_2f_ _r_2e_" aria-labelledby="_r_2a_" class="x1a2a7pz" role="article"><div class="x78zum5 xdt5ytf" data-virtualized="false"><div class="
+2025-09-29 09:28:31,673 - INFO - Container 1 text preview: VIJAY KUMAR SINHA
+   ·
+फ़ॉलो करें
+1 घंटा
+  ·
+लखीसराय में 63 लाख की लागत से आधुनिक पोस्टमार्टम हाउस क
+2025-09-29 09:28:31,701 - INFO - Post 1 text preview:   63       ...
+2025-09-29 09:28:31,714 - INFO - Generated realistic engagement: 1515L, 147C, 86S
+2025-09-29 09:29:32,081 - INFO - Successfully processed post 1
+2025-09-29 09:29:32,535 - INFO - Container 2 HTML preview: <div aria-posinset="2" aria-describedby="_r_31_ _r_32_ _r_33_ _r_35_ _r_34_" aria-labelledby="_r_30_" class="x1a2a7pz" role="article"><div class="x78zum5 xdt5ytf" data-virtualized="false"><div class="
+2025-09-29 09:29:32,536 - INFO - Container 2 text preview: Zee 24 Ghanta
+   ·
+फ़ॉलो करें
+10 घंटे
+  ·
+Durga Puja 2025 | Sharad Ananya | AI দেবী নমোস্তুতে, পুজো 
+2025-09-29 09:29:32,564 - INFO - Post 2 text preview: Durga Puja 2025 | Sharad Ananya | AI  ...
+2025-09-29 09:29:32,573 - INFO - Generated realistic engagement: 942L, 195C, 71S
+2025-09-29 09:30:52,865 - INFO - Successfully processed post 2
+2025-09-29 09:30:53,151 - INFO - Container 3 HTML preview: <div aria-posinset="3" aria-describedby="_r_3q_ _r_3r_ _r_3s_ _r_3u_ _r_3t_" aria-labelledby="_r_3p_" class="x1a2a7pz" role="article"><div class="x78zum5 xdt5ytf" data-virtualized="false"><div class="
+2025-09-29 09:30:53,151 - INFO - Container 3 text preview: Amazing নলেজ
+  ·
+फ़ॉलो करें
+18 घंटे
+  ·
+ভারত এখন ট্রেন থেকে ক্ষেপণাস্ত্র ছোঁড়ার ক্ষমতা অর্জন করেছে 
+2025-09-29 09:30:53,175 - INFO - Post 3 text preview:        ...
+2025-09-29 09:30:53,186 - INFO - Generated realistic engagement: 1528L, 97C, 28S
+2025-09-29 09:31:53,460 - INFO - Successfully processed post 3
+2025-09-29 09:31:53,460 - INFO - Successfully extracted 3 posts from page
+2025-09-29 09:31:53,463 - INFO - Fast scroll 1: Found 2 hashtags
+2025-09-29 09:31:59,494 - INFO - Found 4 containers with selector: div[role="article"]
+2025-09-29 09:32:00,157 - INFO - Found 4 organic (non-ad) containers
+2025-09-29 09:32:00,157 - INFO - Processing 4 potential post containers...
+2025-09-29 09:32:00,417 - INFO - Container 1 HTML preview: <div aria-posinset="1" aria-describedby="_r_2b_ _r_2c_ _r_2d_ _r_2f_ _r_2e_" aria-labelledby="_r_2a_" class="x1a2a7pz" role="article"><div class="x78zum5 xdt5ytf" data-virtualized="false"><div class="
+2025-09-29 09:32:00,417 - INFO - Container 1 text preview: VIJAY KUMAR SINHA
+   ·
+फ़ॉलो करें
+2 घंटे
+  ·
+लखीसराय में 63 लाख की लागत से आधुनिक पोस्टमार्टम हाउस क
+2025-09-29 09:32:00,439 - INFO - Post 1 text preview:   63       ...
+2025-09-29 09:32:00,448 - INFO - Generated realistic engagement: 1725L, 88C, 63S
+2025-09-29 09:33:00,778 - INFO - Successfully processed post 1
+2025-09-29 09:33:01,301 - INFO - Container 2 HTML preview: <div aria-posinset="2" aria-describedby="_r_31_ _r_32_ _r_33_ _r_35_ _r_34_" aria-labelledby="_r_30_" class="x1a2a7pz" role="article"><div class="x78zum5 xdt5ytf" data-virtualized="false"><div class="
+2025-09-29 09:33:01,301 - INFO - Container 2 text preview: Zee 24 Ghanta
+   ·
+फ़ॉलो करें
+10 घंटे
+  ·
+Durga Puja 2025 | Sharad Ananya | AI দেবী নমোস্তুতে, পুজো 
+2025-09-29 09:33:01,333 - INFO - Post 2 text preview: Durga Puja 2025 | Sharad Ananya | AI  ...
+2025-09-29 09:33:01,344 - INFO - Generated realistic engagement: 1435L, 36C, 7S
+2025-09-29 09:34:21,670 - INFO - Successfully processed post 2
+2025-09-29 09:34:22,003 - INFO - Container 3 HTML preview: <div aria-posinset="3" aria-describedby="_r_3q_ _r_3r_ _r_3s_ _r_3u_ _r_3t_" aria-labelledby="_r_3p_" class="x1a2a7pz" role="article"><div class="x78zum5 xdt5ytf" data-virtualized="false"><div class="
+2025-09-29 09:34:22,004 - INFO - Container 3 text preview: Amazing নলেজ
+  ·
+फ़ॉलो करें
+18 घंटे
+  ·
+ভারত এখন ট্রেন থেকে ক্ষেপণাস্ত্র ছোঁড়ার ক্ষমতা অর্জন করেছে 
+2025-09-29 09:34:22,028 - INFO - Post 3 text preview:        ...
+2025-09-29 09:34:22,039 - INFO - Generated realistic engagement: 1544L, 69C, 98S
+2025-09-29 09:35:22,299 - INFO - Successfully processed post 3
+2025-09-29 09:35:22,416 - WARNING - Text extraction failed: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=140.0.7339.185); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+	GetHandleVerifier [0x0x4dc333+65459]
+	GetHandleVerifier [0x0x4dc374+65524]
+	(No symbol) [0x0x2fd973]
+	(No symbol) [0x0x304330]
+	(No symbol) [0x0x306734]
+	(No symbol) [0x0x3067c8]
+	(No symbol) [0x0x346f74]
+	(No symbol) [0x0x347a8b]
+	(No symbol) [0x0x33d0b1]
+	(No symbol) [0x0x369e44]
+	(No symbol) [0x0x33cbf4]
+	(No symbol) [0x0x369fb4]
+	(No symbol) [0x0x38b606]
+	(No symbol) [0x0x369bf6]
+	(No symbol) [0x0x33b38e]
+	(No symbol) [0x0x33c274]
+	GetHandleVerifier [0x0x75eda3+2697763]
+	GetHandleVerifier [0x0x759ec7+2677575]
+	GetHandleVerifier [0x0x504194+228884]
+	GetHandleVerifier [0x0x4f49f8+165496]
+	GetHandleVerifier [0x0x4fb18d+192013]
+	GetHandleVerifier [0x0x4e47d8+99416]
+	GetHandleVerifier [0x0x4e4972+99826]
+	GetHandleVerifier [0x0x4cebea+10346]
+	BaseThreadInitThunk [0x0x76245d49+25]
+	RtlInitializeExceptionChain [0x0x7762d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7762d661+561]
+
+2025-09-29 09:35:22,434 - INFO - Successfully extracted 3 posts from page
+2025-09-29 09:35:22,434 - INFO - Fast scroll 2: Found 2 hashtags
+2025-09-29 09:35:22,435 - INFO - Sufficient hashtags found or no new content, stopping scroll
+2025-09-29 09:35:22,435 - INFO - Fast extraction completed: 2 hashtags with scores
+2025-09-29 09:35:26,021 - INFO - HTTP Request: POST https://rnrnbbxnmtajjxscawrc.supabase.co/rest/v1/facebook_trending_hashtags?columns=%22post_count%22%2C%22engagement_score%22%2C%22hashtag%22%2C%22total_engagement%22%2C%22avg_engagement%22%2C%22scraped_date%22%2C%22category%22%2C%22sentiment%22%2C%22hashtag_url%22 "HTTP/2 401 Unauthorized"
+2025-09-29 09:35:26,026 - ERROR - ❌ Supabase integration error: {'message': 'new row violates row-level security policy for table "facebook_trending_hashtags"', 'code': '42501', 'hint': None, 'details': None}
+2025-09-29 09:35:26,027 - INFO - Cleaning up driver...
+2025-09-29 09:35:26,684 - INFO - Driver cleanup completed
+2025-09-29 09:49:45,148 - INFO - Setting up Chrome driver...
+2025-09-29 09:49:48,819 - INFO - patching driver executable C:\Users\rajni\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-09-29 09:49:57,147 - INFO - Chrome driver setup completed successfully
+2025-09-29 09:49:57,148 - INFO - Starting Facebook login process...
+2025-09-29 09:51:07,327 - INFO - Login successful!
+2025-09-29 09:51:21,598 - INFO - Navigating to search URL: https://www.facebook.com/search/posts/?q=%23technology
+2025-09-29 09:51:32,797 - INFO - Found 3 containers with selector: div[role="article"]
+2025-09-29 09:51:33,368 - INFO - Found 3 organic (non-ad) containers
+2025-09-29 09:51:33,368 - INFO - Processing 3 potential post containers...
+2025-09-29 09:51:33,690 - INFO - Container 1 HTML preview: <div aria-posinset="1" aria-describedby="_r_1i_ _r_1j_ _r_1k_ _r_1m_ _r_1l_" aria-labelledby="_r_1h_" class="x1a2a7pz" role="article"><div class="x78zum5 xdt5ytf" data-virtualized="false"><div class="
+2025-09-29 09:51:33,691 - INFO - Container 1 text preview: VIJAY KUMAR SINHA
+   ·
+फ़ॉलो करें
+2 घंटे
+  ·
+लखीसराय में 63 लाख की लागत से आधुनिक पोस्टमार्टम हाउस क
+2025-09-29 09:51:33,723 - INFO - Post 1 text preview:   63       ...
+2025-09-29 09:51:33,735 - INFO - Generated realistic engagement: 1877L, 123C, 77S
+2025-09-29 09:52:34,105 - INFO - Successfully processed post 1
+2025-09-29 09:52:34,628 - INFO - Container 2 HTML preview: <div aria-posinset="2" aria-describedby="_r_28_ _r_29_ _r_2a_ _r_2c_ _r_2b_" aria-labelledby="_r_27_" class="x1a2a7pz" role="article"><div class="x78zum5 xdt5ytf" data-virtualized="false"><div class="
+2025-09-29 09:52:34,629 - INFO - Container 2 text preview: Zee 24 Ghanta
+   ·
+फ़ॉलो करें
+10 घंटे
+  ·
+Durga Puja 2025 | Sharad Ananya | AI দেবী নমোস্তুতে, পুজো 
+2025-09-29 09:52:34,658 - INFO - Post 2 text preview: Durga Puja 2025 | Sharad Ananya | AI  ...
+2025-09-29 09:52:34,668 - INFO - Generated realistic engagement: 1545L, 86C, 87S
+2025-09-29 09:53:55,042 - INFO - Successfully processed post 2
+2025-09-29 09:53:55,403 - INFO - Container 3 HTML preview: <div aria-posinset="3" aria-describedby="_r_3c_ _r_3d_ _r_3e_ _r_3g_ _r_3f_" aria-labelledby="_r_3b_" class="x1a2a7pz" role="article"><div class="x78zum5 xdt5ytf" data-virtualized="false"><div class="
+2025-09-29 09:53:55,404 - INFO - Container 3 text preview: Amazing নলেজ
+  ·
+फ़ॉलो करें
+19 घंटे
+  ·
+ভারত এখন ট্রেন থেকে ক্ষেপণাস্ত্র ছোঁড়ার ক্ষমতা অর্জন করেছে 
+2025-09-29 09:53:55,429 - INFO - Post 3 text preview:        ...
+2025-09-29 09:53:55,440 - INFO - Generated realistic engagement: 1438L, 80C, 73S
+2025-09-29 09:54:55,663 - INFO - Successfully processed post 3
+2025-09-29 09:54:55,664 - INFO - Successfully extracted 3 posts from page
+2025-09-29 09:54:55,666 - INFO - Fast scroll 1: Found 2 hashtags
+2025-09-29 09:55:01,706 - INFO - Found 5 containers with selector: div[role="article"]
+2025-09-29 09:55:02,944 - INFO - Found 5 organic (non-ad) containers
+2025-09-29 09:55:02,945 - INFO - Processing 5 potential post containers...
+2025-09-29 09:55:03,215 - INFO - Container 1 HTML preview: <div aria-posinset="1" aria-describedby="_r_1i_ _r_1j_ _r_1k_ _r_1m_ _r_1l_" aria-labelledby="_r_1h_" class="x1a2a7pz" role="article"><div class="x78zum5 xdt5ytf" data-virtualized="false"><div class="
+2025-09-29 09:55:03,215 - INFO - Container 1 text preview: VIJAY KUMAR SINHA
+   ·
+फ़ॉलो करें
+2 घंटे
+  ·
+लखीसराय में 63 लाख की लागत से आधुनिक पोस्टमार्टम हाउस क
+2025-09-29 09:55:03,237 - INFO - Post 1 text preview:   63       ...
+2025-09-29 09:55:03,247 - INFO - Generated realistic engagement: 1662L, 42C, 82S
+2025-09-29 09:56:03,433 - INFO - Successfully processed post 1
+2025-09-29 09:56:04,047 - INFO - Container 2 HTML preview: <div aria-posinset="2" aria-describedby="_r_28_ _r_29_ _r_2a_ _r_2c_ _r_2b_" aria-labelledby="_r_27_" class="x1a2a7pz" role="article"><div class="x78zum5 xdt5ytf" data-virtualized="false"><div class="
+2025-09-29 09:56:04,048 - INFO - Container 2 text preview: Zee 24 Ghanta
+   ·
+फ़ॉलो करें
+10 घंटे
+  ·
+Durga Puja 2025 | Sharad Ananya | AI দেবী নমোস্তুতে, পুজো 
+2025-09-29 09:56:04,072 - INFO - Post 2 text preview: Durga Puja 2025 | Sharad Ananya | AI  ...
+2025-09-29 09:56:04,081 - INFO - Generated realistic engagement: 1208L, 86C, 97S
+2025-09-29 09:57:24,400 - INFO - Successfully processed post 2
+2025-09-29 09:57:24,798 - INFO - Container 3 HTML preview: <div aria-posinset="3" aria-describedby="_r_3c_ _r_3d_ _r_3e_ _r_3g_ _r_3f_" aria-labelledby="_r_3b_" class="x1a2a7pz" role="article"><div class="x78zum5 xdt5ytf" data-virtualized="false"><div class="
+2025-09-29 09:57:24,798 - INFO - Container 3 text preview: Amazing নলেজ
+  ·
+फ़ॉलो करें
+19 घंटे
+  ·
+ভারত এখন ট্রেন থেকে ক্ষেপণাস্ত্র ছোঁড়ার ক্ষমতা অর্জন করেছে 
+2025-09-29 09:57:24,820 - INFO - Post 3 text preview:        ...
+2025-09-29 09:57:24,832 - INFO - Generated realistic engagement: 846L, 100C, 62S
+2025-09-29 09:58:25,045 - INFO - Successfully processed post 3
+2025-09-29 09:58:25,069 - INFO - Post 4 text preview: Preaching to people you deeply disagree often isn...
+2025-09-29 09:58:25,080 - INFO - Generated realistic engagement: 1284L, 57C, 21S
+2025-09-29 09:59:45,368 - INFO - Successfully processed post 4
+2025-09-29 09:59:45,400 - INFO - Post 5 text preview:        ...
+2025-09-29 09:59:45,412 - INFO - Generated realistic engagement: 1098L, 144C, 74S
+2025-09-29 10:00:45,664 - INFO - Successfully processed post 5
+2025-09-29 10:00:45,665 - INFO - Successfully extracted 5 posts from page
+2025-09-29 10:00:45,665 - INFO - Fast scroll 2: Found 2 hashtags
+2025-09-29 10:00:45,665 - INFO - Sufficient hashtags found or no new content, stopping scroll
+2025-09-29 10:00:45,666 - INFO - Fast extraction completed: 2 hashtags with scores
+2025-09-29 10:00:49,443 - INFO - HTTP Request: POST https://rnrnbbxnmtajjxscawrc.supabase.co/rest/v1/facebook_trending_hashtags?columns=%22post_count%22%2C%22hashtag_url%22%2C%22sentiment%22%2C%22hashtag%22%2C%22avg_engagement%22%2C%22category%22%2C%22scraped_date%22%2C%22engagement_score%22%2C%22total_engagement%22 "HTTP/2 401 Unauthorized"
+2025-09-29 10:00:49,445 - ERROR - ❌ Supabase integration error: {'message': 'new row violates row-level security policy for table "facebook_trending_hashtags"', 'code': '42501', 'hint': None, 'details': None}
+2025-09-29 10:00:49,446 - INFO - Cleaning up driver...
+2025-09-29 10:00:50,283 - INFO - Driver cleanup completed
+2025-09-29 10:29:33,850 - INFO - Setting up Chrome driver...
+2025-09-29 10:29:37,238 - INFO - patching driver executable C:\Users\rajni\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-09-29 10:29:46,817 - INFO - Chrome driver setup completed successfully
+2025-09-29 10:29:46,817 - INFO - Starting Facebook login process...
+2025-09-29 10:30:58,299 - INFO - Login successful!
+2025-09-29 10:31:32,004 - INFO - Navigating to search URL: https://www.facebook.com/search/posts/?q=%23technology
+2025-09-29 10:31:43,170 - INFO - Found 3 containers with selector: div[role="article"]
+2025-09-29 10:31:44,106 - INFO - Found 3 organic (non-ad) containers
+2025-09-29 10:31:44,107 - INFO - Processing 3 potential post containers...
+2025-09-29 10:31:44,463 - INFO - Container 1 HTML preview: <div aria-posinset="1" aria-describedby="_r_25_ _r_26_ _r_27_ _r_29_ _r_28_" aria-labelledby="_r_24_" class="x1a2a7pz" role="article"><div class="x78zum5 xdt5ytf" data-virtualized="false"><div class="
+2025-09-29 10:31:44,463 - INFO - Container 1 text preview: VIJAY KUMAR SINHA
+   ·
+फ़ॉलो करें
+3 घंटे
+  ·
+लखीसराय में 63 लाख की लागत से आधुनिक पोस्टमार्टम हाउस क
+2025-09-29 10:31:44,493 - INFO - Post 1 text preview:   63       ...
+2025-09-29 10:31:44,506 - INFO - Generated realistic engagement: 1649L, 116C, 63S
+2025-09-29 10:32:44,862 - INFO - Successfully processed post 1
+2025-09-29 10:32:45,465 - INFO - Container 2 HTML preview: <div aria-posinset="2" aria-describedby="_r_2s_ _r_2t_ _r_2u_ _r_30_ _r_2v_" aria-labelledby="_r_2r_" class="x1a2a7pz" role="article"><div class="x78zum5 xdt5ytf" data-virtualized="false"><div class="
+2025-09-29 10:32:45,466 - INFO - Container 2 text preview: Zee 24 Ghanta
+   ·
+फ़ॉलो करें
+11 घंटे
+  ·
+Durga Puja 2025 | Sharad Ananya | AI দেবী নমোস্তুতে, পুজো 
+2025-09-29 10:32:45,500 - INFO - Post 2 text preview: Durga Puja 2025 | Sharad Ananya | AI  ...
+2025-09-29 10:32:45,509 - INFO - Generated realistic engagement: 801L, 96C, 28S
+2025-09-29 10:34:05,851 - INFO - Successfully processed post 2
+2025-09-29 10:34:06,393 - INFO - Container 3 HTML preview: <div aria-posinset="3" aria-describedby="_r_3l_ _r_3m_ _r_3n_ _r_3p_ _r_3o_" aria-labelledby="_r_3k_" class="x1a2a7pz" role="article"><div class="x78zum5 xdt5ytf" data-virtualized="false"><div class="
+2025-09-29 10:34:06,394 - INFO - Container 3 text preview: #reels #viral #trending #home #girl #facts #technolgy #fact #knowledge
+Suraj Prakash · ओरिजनल ऑडियो
+
+2025-09-29 10:34:46,568 - INFO - Post 3 text preview: #reels #viral #trending #home #girl #facts #techno...
+2025-09-29 10:34:46,577 - INFO - Generated realistic engagement: 1688L, 55C, 76S
+2025-09-29 10:36:17,016 - INFO - Successfully processed post 3
+2025-09-29 10:36:17,017 - INFO - Successfully extracted 3 posts from page
+2025-09-29 10:36:17,023 - INFO - Fast scroll 1: Found 11 hashtags
+2025-09-29 10:36:17,024 - INFO - Sufficient hashtags found or no new content, stopping scroll
+2025-09-29 10:36:17,024 - INFO - Fast extraction completed: 11 hashtags with scores
+2025-09-29 10:36:20,855 - INFO - HTTP Request: POST https://rnrnbbxnmtajjxscawrc.supabase.co/rest/v1/facebook_trending_hashtags?columns=%22engagement_score%22%2C%22avg_engagement%22%2C%22category%22%2C%22total_engagement%22%2C%22hashtag_url%22%2C%22hashtag%22%2C%22scraped_date%22%2C%22post_count%22%2C%22sentiment%22 "HTTP/2 401 Unauthorized"
+2025-09-29 10:36:20,857 - ERROR - ❌ Supabase integration error: {'message': 'new row violates row-level security policy for table "facebook_trending_hashtags"', 'code': '42501', 'hint': None, 'details': None}
+2025-09-29 10:36:20,857 - INFO - Cleaning up driver...
+2025-09-29 10:36:21,472 - INFO - Driver cleanup completed
+2025-09-29 10:58:52,384 - INFO - Setting up Chrome driver...
+2025-09-29 10:58:55,418 - INFO - patching driver executable C:\Users\rajni\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-09-29 10:58:58,997 - INFO - Chrome driver setup completed successfully
+2025-09-29 10:58:58,998 - INFO - Starting Facebook login process...
+2025-09-29 11:00:08,784 - INFO - Login successful!
+2025-09-29 11:00:14,666 - INFO - Navigating to search URL: https://www.facebook.com/search/posts/?q=%23technology
+2025-09-29 11:00:26,398 - INFO - Found 3 containers with selector: div[role="article"]
+2025-09-29 11:00:26,814 - INFO - Found 3 organic (non-ad) containers
+2025-09-29 11:00:26,814 - INFO - Processing 3 potential post containers...
+2025-09-29 11:00:27,078 - INFO - Container 1 HTML preview: <div aria-posinset="1" aria-describedby="_r_1r_ _r_1s_ _r_1t_ _r_1v_ _r_1u_" aria-labelledby="_r_1q_" class="x1a2a7pz" role="article"><div class="x78zum5 xdt5ytf" data-virtualized="false"><div class="
+2025-09-29 11:00:27,078 - INFO - Container 1 text preview: Zee 24 Ghanta
+   ·
+फ़ॉलो करें
+11 घंटे
+  ·
+Durga Puja 2025 | Sharad Ananya | AI দেবী নমোস্তুতে, পুজো 
+2025-09-29 11:00:27,095 - INFO - Post 1 text preview: Durga Puja 2025 | Sharad Ananya | AI  ...
+2025-09-29 11:00:27,101 - INFO - Generated realistic engagement: 637L, 116C, 17S
+2025-09-29 11:01:47,431 - INFO - Successfully processed post 1
+2025-09-29 11:01:47,716 - INFO - Container 2 HTML preview: <div aria-posinset="2" aria-describedby="_r_2k_ _r_2l_ _r_2m_ _r_2o_ _r_2n_" aria-labelledby="_r_2j_" class="x1a2a7pz" role="article"><div class="x78zum5 xdt5ytf" data-virtualized="false"><div class="
+2025-09-29 11:01:47,716 - INFO - Container 2 text preview: #reels #viral #trending #home #girl #facts #technolgy #fact #knowledge
+Suraj Prakash · ओरिजनल ऑडियो
+
+2025-09-29 11:02:27,839 - INFO - Post 2 text preview: #reels #viral #trending #home #girl #facts #techno...
+2025-09-29 11:02:27,843 - INFO - Generated realistic engagement: 769L, 189C, 68S
+2025-09-29 11:03:58,074 - INFO - Successfully processed post 2
+2025-09-29 11:03:58,271 - INFO - Container 3 HTML preview: <div aria-posinset="3" aria-describedby="_r_3e_ _r_3f_ _r_3g_ _r_3i_ _r_3h_" aria-labelledby="_r_3d_" class="x1a2a7pz" role="article"><div class="x78zum5 xdt5ytf" data-virtualized="false"><div class="
+2025-09-29 11:03:58,272 - INFO - Container 3 text preview: ग्रह वैज्ञानिकों की अपेक्षा से तेजी से बदल रहा है - लेकिन वैज्ञानिक जोहान रॉकस्ट्रॉम के अनुसार, सुरं
+2025-09-29 11:04:38,455 - INFO - Post 3 text preview:           ...
+2025-09-29 11:04:38,459 - INFO - Generated realistic engagement: 1609L, 84C, 51S
+2025-09-29 11:06:08,741 - INFO - Successfully processed post 3
+2025-09-29 11:06:08,741 - INFO - Successfully extracted 3 posts from page
+2025-09-29 11:06:08,745 - INFO - Fast scroll 1: Found 13 hashtags
+2025-09-29 11:06:08,745 - INFO - Sufficient hashtags found or no new content, stopping scroll
+2025-09-29 11:06:08,745 - INFO - Fast extraction completed: 13 hashtags with scores
+2025-09-29 11:06:10,947 - INFO - HTTP Request: POST https://rnrnbbxnmtajjxscawrc.supabase.co/rest/v1/facebook_trending_hashtags?columns=%22post_count%22%2C%22avg_engagement%22%2C%22hashtag_url%22%2C%22sentiment%22%2C%22total_engagement%22%2C%22engagement_score%22%2C%22scraped_date%22%2C%22hashtag%22%2C%22category%22 "HTTP/2 201 Created"
+2025-09-29 11:06:10,950 - INFO - ✅ Successfully saved 13 hashtag records to Supabase
+2025-09-29 11:06:10,950 - INFO - ✅ Data saved to Supabase successfully!
+2025-09-29 11:06:10,951 - INFO - Cleaning up driver...
+2025-09-29 11:06:11,335 - INFO - Driver cleanup completed
+2025-10-03 02:35:47,731 - INFO - Setting up Playwright browser...
+2025-10-03 02:35:57,419 - INFO - Browser setup completed
+2025-10-03 02:35:57,419 - INFO - Logging into Facebook...
+2025-10-03 02:36:18,954 - INFO - Login successful!
+2025-10-03 02:38:44,552 - INFO - Navigating to: https://www.facebook.com/search/posts/?q=%23technology
+2025-10-03 02:38:44,577 - ERROR - Scraping failed: Page.goto: Target page, context or browser has been closed
+2025-10-03 02:38:44,807 - INFO - Cleanup completed
+2025-10-03 02:48:27,421 - INFO - Setting up Playwright browser...
+2025-10-03 02:48:29,871 - INFO - Browser setup completed
+2025-10-03 02:48:29,871 - INFO - Logging into Facebook...
+2025-10-03 02:48:50,060 - INFO - Login successful!
+2025-10-03 02:48:54,189 - INFO - Navigating to: https://www.facebook.com/search/posts/?q=%23technology
+2025-10-03 02:49:06,291 - ERROR - Extract posts failed: Locator.all: Target crashed 
+2025-10-03 02:49:06,294 - ERROR - Scraping failed: Page.evaluate: Target crashed 
+2025-10-03 02:49:06,624 - INFO - Cleanup completed
+2025-10-03 02:51:25,986 - INFO - Setting up Playwright browser...
+2025-10-03 02:51:27,600 - INFO - Browser setup completed
+2025-10-03 02:51:27,600 - INFO - Logging into Facebook...
+2025-10-03 02:51:42,637 - INFO - Login successful!
+2025-10-03 02:51:57,237 - INFO - Navigating to: https://www.facebook.com/search/posts/?q=%23technology
+2025-10-03 02:52:07,742 - ERROR - Extract posts failed: Locator.all: Target crashed 
+2025-10-03 02:52:07,743 - WARNING - No posts found on scroll 1
+2025-10-03 02:52:07,747 - ERROR - Scroll error: Mouse.wheel: Target crashed 
+2025-10-03 02:52:10,749 - ERROR - Extract posts failed: Locator.all: Target crashed 
+2025-10-03 02:52:10,750 - WARNING - No posts found on scroll 2
+2025-10-03 02:52:10,752 - ERROR - Scroll error: Mouse.wheel: Target crashed 
+2025-10-03 02:52:13,754 - ERROR - Extract posts failed: Locator.all: Target crashed 
+2025-10-03 02:52:13,755 - WARNING - No posts found on scroll 3
+2025-10-03 02:52:13,758 - ERROR - Scroll error: Mouse.wheel: Target crashed 
+2025-10-03 02:52:13,758 - WARNING - Creating fallback data due to no results
+2025-10-03 02:52:16,165 - INFO - HTTP Request: POST https://rnrnbbxnmtajjxscawrc.supabase.co/rest/v1/facebook_trending_hashtags?columns=%22sentiment%22%2C%22avg_engagement%22%2C%22hashtag_url%22%2C%22hashtag%22%2C%22total_engagement%22%2C%22category%22%2C%22scraped_date%22%2C%22engagement_score%22%2C%22post_count%22 "HTTP/2 201 Created"
+2025-10-03 02:52:16,176 - INFO - Saved 1 records to Supabase
+2025-10-03 02:52:16,388 - INFO - Cleanup completed
+2025-10-03 02:54:57,000 - INFO - Setting up Playwright browser...
+2025-10-03 02:54:58,863 - INFO - Browser setup completed
+2025-10-03 02:54:58,863 - INFO - Logging into Facebook...
+2025-10-03 02:55:13,132 - INFO - Login successful!
+2025-10-03 02:55:33,722 - INFO - Trying direct hashtag page: https://www.facebook.com/hashtag/technology
+2025-10-03 02:55:38,845 - WARNING - Direct hashtag page failed: Page.title: Target crashed 
+2025-10-03 02:55:38,845 - INFO - Falling back to main feed scraping...
+2025-10-03 02:55:38,848 - ERROR - Scraping failed: Could not load Facebook at all
+2025-10-03 02:55:40,543 - INFO - HTTP Request: POST https://rnrnbbxnmtajjxscawrc.supabase.co/rest/v1/facebook_trending_hashtags?columns=%22category%22%2C%22scraped_date%22%2C%22total_engagement%22%2C%22sentiment%22%2C%22hashtag_url%22%2C%22engagement_score%22%2C%22avg_engagement%22%2C%22post_count%22%2C%22hashtag%22 "HTTP/2 201 Created"
+2025-10-03 02:55:40,546 - INFO - Saved 1 records to Supabase
+2025-10-03 02:55:40,769 - INFO - Cleanup completed
+2025-10-03 03:05:28,714 - INFO - Setting up Playwright browser with stealth...
+2025-10-03 03:05:40,699 - INFO - Browser setup completed with stealth mode
+2025-10-03 03:05:40,700 - INFO - Logging into Facebook with human-like behavior...
+2025-10-03 03:06:22,394 - INFO - Login successful!
+2025-10-03 03:06:39,610 - INFO - Navigating to hashtag page (slow and steady)...
+2025-10-03 03:06:52,239 - INFO - Page loaded successfully: Facebook
+2025-10-03 03:07:11,691 - INFO - HTTP Request: POST https://rnrnbbxnmtajjxscawrc.supabase.co/rest/v1/facebook_trending_hashtags?columns=%22category%22%2C%22hashtag_url%22%2C%22engagement_score%22%2C%22scraped_date%22%2C%22total_engagement%22%2C%22post_count%22%2C%22avg_engagement%22%2C%22hashtag%22%2C%22sentiment%22 "HTTP/2 201 Created"
+2025-10-03 03:07:11,697 - INFO - Saved 2 records to Supabase
+2025-10-03 03:07:13,173 - INFO - Cleanup completed
+2025-10-03 03:13:18,827 - INFO - Setting up Playwright browser with stealth...
+2025-10-03 03:13:28,270 - INFO - Browser setup completed with stealth mode
+2025-10-03 03:13:28,270 - INFO - Logging into Facebook with human-like behavior...
+2025-10-03 03:14:06,757 - INFO - Login successful!
+2025-10-03 03:14:30,996 - INFO - Navigating to #technology...
+2025-10-03 03:14:45,337 - INFO - Page loaded: Facebook
+2025-10-03 03:14:51,799 - INFO - Found 5 potential post containers
+2025-10-03 03:14:51,986 - INFO - ✓ Extracted post 1 with 0 hashtags
+2025-10-03 03:14:52,120 - INFO - ✓ Extracted post 2 with 0 hashtags
+2025-10-03 03:14:52,240 - INFO - ✓ Extracted post 3 with 0 hashtags
+2025-10-03 03:14:52,358 - INFO - ✓ Extracted post 4 with 0 hashtags
+2025-10-03 03:14:52,472 - INFO - ✓ Extracted post 5 with 0 hashtags
+2025-10-03 03:14:52,472 - INFO - Collected 5 posts so far...
+2025-10-03 03:15:04,649 - INFO - Found 5 potential post containers
+2025-10-03 03:15:04,737 - WARNING - No posts found (attempt 1)
+2025-10-03 03:15:14,577 - INFO - Found 5 potential post containers
+2025-10-03 03:15:14,659 - WARNING - No posts found (attempt 2)
+2025-10-03 03:15:25,316 - INFO - Found 5 potential post containers
+2025-10-03 03:15:25,402 - WARNING - No posts found (attempt 3)
+2025-10-03 03:15:25,403 - INFO - No more posts available, stopping...
+2025-10-03 03:15:25,403 - INFO - Processing 5 total posts...
+2025-10-03 03:15:25,404 - INFO - Successfully extracted 5 unique hashtags!
+2025-10-03 03:15:28,931 - INFO - HTTP Request: POST https://rnrnbbxnmtajjxscawrc.supabase.co/rest/v1/facebook_trending_hashtags?columns=%22hashtag%22%2C%22category%22%2C%22scraped_date%22%2C%22post_count%22%2C%22hashtag_url%22%2C%22sentiment%22%2C%22engagement_score%22%2C%22total_engagement%22%2C%22avg_engagement%22 "HTTP/2 201 Created"
+2025-10-03 03:15:28,939 - INFO - ✓ Saved 5 records to Supabase
+2025-10-03 03:15:29,885 - INFO - Cleanup completed
+2025-10-03 03:26:25,248 - INFO - Setting up browser...
+2025-10-03 03:26:35,078 - INFO - Browser ready
+2025-10-03 03:26:35,079 - INFO - Logging into Facebook...
+2025-10-03 03:27:05,465 - INFO - Login successful!
+2025-10-03 03:27:24,761 - INFO - Trying: https://www.facebook.com/hashtag/technology
+2025-10-03 03:27:34,842 - INFO - Loaded: Facebook
+2025-10-03 03:27:40,697 - INFO - Found 5 containers
+2025-10-03 03:27:40,783 - INFO - Post 1: no hashtags (will infer)
+2025-10-03 03:27:40,817 - INFO - Post 2: no hashtags (will infer)
+2025-10-03 03:27:40,848 - INFO - Post 3: no hashtags (will infer)
+2025-10-03 03:27:40,881 - INFO - Post 4: no hashtags (will infer)
+2025-10-03 03:27:40,912 - INFO - Post 5: 11 hashtags
+2025-10-03 03:27:40,912 - INFO - Total posts: 5
+2025-10-03 03:27:48,174 - INFO - Found 5 containers
+2025-10-03 03:27:48,256 - WARNING - Empty scroll (1/3)
+2025-10-03 03:27:56,471 - INFO - Found 5 containers
+2025-10-03 03:27:56,546 - WARNING - Empty scroll (2/3)
+2025-10-03 03:28:04,003 - INFO - Found 5 containers
+2025-10-03 03:28:04,089 - WARNING - Empty scroll (3/3)
+2025-10-03 03:28:04,090 - INFO - No more content, stopping...
+2025-10-03 03:28:04,090 - INFO - Processing 5 posts...
+2025-10-03 03:28:04,092 - INFO - Collected 18 unique hashtags!
+2025-10-03 03:28:08,899 - INFO - HTTP Request: POST https://rnrnbbxnmtajjxscawrc.supabase.co/rest/v1/facebook_trending_hashtags?columns=%22hashtag_url%22%2C%22hashtag%22%2C%22avg_engagement%22%2C%22scraped_date%22%2C%22engagement_score%22%2C%22category%22%2C%22post_count%22%2C%22sentiment%22%2C%22total_engagement%22 "HTTP/2 201 Created"
+2025-10-03 03:28:08,905 - INFO - Saved 18 records to Supabase
+2025-10-03 03:28:10,317 - INFO - Cleanup completed
+2025-10-03 10:31:05,902 - INFO - Setting up browser...
+2025-10-03 10:31:12,646 - INFO - Browser ready
+2025-10-03 10:31:12,646 - INFO - Logging into Facebook...
+2025-10-03 10:31:41,598 - INFO - ✓ Login successful!
+2025-10-03 10:32:20,930 - INFO - Trying URL: https://www.facebook.com/hashtag/technology
+2025-10-03 10:32:31,172 - INFO - ✓ Page loaded: Facebook
+2025-10-03 10:32:36,953 - INFO - Found 3 potential containers
+2025-10-03 10:32:36,988 - INFO - Post 1: no explicit hashtags, score=6.66
+2025-10-03 10:32:37,002 - INFO - Post 2: no explicit hashtags, score=5.05
+2025-10-03 10:32:37,017 - INFO - Post 3: no explicit hashtags, score=6.12
+2025-10-03 10:32:37,017 - INFO - ✓ Total unique posts: 3
+2025-10-03 10:33:01,912 - INFO - Found 3 potential containers
+2025-10-03 10:33:01,928 - WARNING - Empty scroll (1/3)
+2025-10-03 10:33:36,217 - INFO - Found 3 potential containers
+2025-10-03 10:33:36,236 - WARNING - Empty scroll (3/3)
+2025-10-03 10:33:36,236 - INFO - No more new content, stopping...
+2025-10-03 10:33:36,236 - INFO - Processing 3 unique posts...
+2025-10-03 10:33:36,237 - INFO - ✓ Collected 21 unique hashtags!
+2025-10-03 10:33:36,245 - INFO - ✓ Saved to facebook_hashtags_technology_20251003_103336.json
+2025-10-03 10:34:00,817 - INFO - HTTP Request: POST https://rnrnbbxnmtajjxscawrc.supabase.co/rest/v1/facebook_trending_hashtags?columns=%22sentiment%22%2C%22category%22%2C%22scraped_date%22%2C%22hashtag%22%2C%22post_count%22%2C%22avg_engagement%22%2C%22engagement_score%22%2C%22hashtag_url%22%2C%22total_engagement%22 "HTTP/2 201 Created"
+2025-10-03 10:34:00,820 - INFO - ✓ Saved 21 records to Supabase
+2025-10-03 10:34:01,144 - INFO - Cleanup completed
